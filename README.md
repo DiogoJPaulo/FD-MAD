@@ -165,16 +165,13 @@ Robust across:
 
 ---
 
-## 📌 Citation
+## Citation
 
 ```bibtex
-@misc{paulo2026fdmad,
-  title         = {FD-MAD: Frequency-Domain Residual Analysis for Face Morphing Attack Detection},
-  author        = {Diogo J. Paulo and Hugo Proen\c{c}a and Jo\~ao C. Neves},
-  year          = {2026},
-  eprint        = {2601.20656},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CV},
-  doi           = {10.48550/arXiv.2601.20656}
+@article{paulo2026fd,
+  title={FD-MAD: Frequency-Domain Residual Analysis for Face Morphing Attack Detection},
+  author={Paulo, Diogo J and Proen{\c{c}}a, Hugo and Neves, Jo{\~a}o C},
+  journal={arXiv preprint arXiv:2601.20656},
+  year={2026}
 }
 ```
