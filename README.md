@@ -25,7 +25,7 @@ This makes FD-MAD particularly effective in **cross-dataset scenarios**, where m
 
 ## Method
 
-![FD-MAD pipeline](./img/fd_mad_pipeline.png)
+![FD-MAD pipeline](./images/overview_fd_mad.jpg)
 
 <p align="center"><em>Overview of FD-MAD.</em></p>
 
