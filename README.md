@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 # FD-MAD: Frequency-Domain Residual Analysis for Face Morphing Attack Detection
 
-This repository contains the official implementation of the paper ["FD-MAD: Frequency-Domain Residual Analysis for Face Morphing Attack Detection"](https://arxiv.org/abs/2601.20656), accepted at IEEE FG2026.
+This repository contains the official implementation of the paper ["FD-MAD: Frequency-Domain Residual Analysis for Face Morphing Attack Detection"](https://ieeexplore.ieee.org/document/11556930), accepted at IEEE FG2026.
 
 ---
 
